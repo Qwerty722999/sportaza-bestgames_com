@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://sportaza-bestgames.com/sitemap_index.xml
